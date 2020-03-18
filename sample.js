@@ -34,4 +34,5 @@
 function func1()
 {
 	console.log('this');
+	//nnnnnnnnnnnn
 }
